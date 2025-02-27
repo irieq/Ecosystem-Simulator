@@ -1,0 +1,29 @@
+Turn 1:
+G - - 
+G - L 
+- L G 
+
+Turn 2:
+G L - 
+G - G 
+- G L 
+
+Turn 3:
+G - - 
+G - G 
+- G G 
+
+Turn 4:
+G - - 
+G - G 
+- G G 
+
+Turn 5:
+G G G 
+G G G 
+G G G 
+
+Turn 6:
+G G G 
+G G G 
+G G G 
